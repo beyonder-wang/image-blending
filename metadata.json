@@ -1,0 +1,5 @@
+{
+  "name": "Copy of 多频段图像融合演示",
+  "description": "一个用于演示拉普拉斯金字塔融合（多频段融合）技术的交互式教育工具。实时可视化频域分解与重构过程。",
+  "requestFramePermissions": []
+}
